@@ -34,7 +34,7 @@ header {
 	padding: 35px 100px 0;
 }
 header h2 span {
-	color: #bf0a30;
+	color: rgba(235, 121, 121, 0.2);
 }
 header ul.nav {
 	display: -webkit-flex;

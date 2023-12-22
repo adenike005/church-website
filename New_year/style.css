@@ -78,7 +78,7 @@ body {
         color: #fff;
     }
     100% {
-        color: #ff94a6;
+        /* color: #ff94a6; */
     }
 }
 @keyframes y4colorful {
